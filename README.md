@@ -1,24 +1,18 @@
-# README
+# Team Lunch Roulette
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+![Team Lunch Demo](https://gph.is/g/aQWRJWk)
 
-Things you may want to cover:
+**FULL DEMO VIDEO** : https://www.youtube.com/watch?v=DHcF9vscdak&feature=youtu.be
 
-* Ruby version
+## Project Overview
+- Team Lunch Roulette is designed to be a mobile application that lets the user add friends to a lunch party and let the application suggest a randomly generated restaurant, based on input of location and cuisine.
 
-* System dependencies
+## Technologies and Frameworks
+- Ruby on Rails
+- Developed a Rails API with auth, leadlists, leads, lists, users and leadnotes endpoints.
+- Database: postgreSQL
+- External API - Yelp
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## Project Functionality 
+- API endpoints
+- Fetch from Yelp API
