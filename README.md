@@ -1,6 +1,6 @@
 # Team Lunch Roulette
 
-![Team Lunch Demo](https://gph.is/g/aQWRJWk)
+![Team Lunch Demo](https://media.giphy.com/media/ge2Ybs7IJ8c6WlSnW5/giphy.gif)
 
 **FULL DEMO VIDEO** : https://www.youtube.com/watch?v=DHcF9vscdak&feature=youtu.be
 
